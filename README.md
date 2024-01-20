@@ -15,7 +15,7 @@ Table of Contents:
   
     https://github.com/dcersos1/BCT_Adoption_Analysis
     
-  Digital Arcade
+  Virtual Arcade
   
     https://github.com/dcersos1/Virtual_Arcade
 
