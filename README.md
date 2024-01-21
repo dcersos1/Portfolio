@@ -17,7 +17,7 @@ Contents:
 
   Analysis of the Factors Impacting the Adpotion of Blockchain Technology in the United States 
   
-    https://github.com/dcersos1/BCT_Adoption_Analysis
+    https://github.com/dcersos1/Blockchain_Adoption_Analysis
     
   Virtual Arcade
   
