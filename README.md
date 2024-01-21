@@ -1,4 +1,4 @@
-# Daniel Cersosimo's Project Portfolio
+# Project Portfolio
 
 Welcome to my Github Portfolio! 
 
