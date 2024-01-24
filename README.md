@@ -15,7 +15,7 @@ Contents:
 
     https://github.com/dcersos1/Inventory_Management_Application
 
-  Analysis of the Factors Impacting the Adpotion of Blockchain Technology in the United States 
+  Analysis of the Factors Impacting the Adoption of Blockchain Technology in the United States 
   
     https://github.com/dcersos1/Blockchain_Adoption_Analysis
     
