@@ -2,7 +2,7 @@
 
 Welcome to my Github Portfolio! 
 
-I am a graduate student at Binghamton Unversity who is interested in an array of interrelated fields such as Data Science, Machine Learning, AI, Business Intelligence, and Information Systems overall. This repository houses a collection of URLs to some of the projects I have worked on. Thank you for viewing and I hope you enjoy them!
+I am a graduate student at Binghamton Unversity with an interest in Machine Learning, Deep Learning, AI, and Data Science overall. This repository houses a collection of URLs to some of the projects I have worked on. Thank you for viewing and I hope you enjoy them!
 
 
 Contents:
