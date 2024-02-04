@@ -11,6 +11,10 @@ I am a graduate student at Binghamton Unversity with an interest in Machine Lear
 
     https://github.com/dcersos1/Stock_Price_Predictor
 
+  Animal Classifer
+
+    https://github.com/dcersos1/Animal_Classifer
+
   London Temperature Forecasting 
   
     https://github.com/dcersos1/London_Temperature_Forecasting
