@@ -15,6 +15,10 @@ I am a graduate student at Binghamton Unversity with an interest in Machine Lear
 
     https://github.com/dcersos1/Animal_Classifer
 
+  Analysis of the Factors Impacting the Adoption of Blockchain Technology in the United States 
+  
+    https://github.com/dcersos1/Blockchain_Adoption_Analysis
+
   London Temperature Forecasting 
   
     https://github.com/dcersos1/London_Temperature_Forecasting
@@ -22,10 +26,6 @@ I am a graduate student at Binghamton Unversity with an interest in Machine Lear
   Inventory Management Application 
 
     https://github.com/dcersos1/Inventory_Management_Application
-
-  Analysis of the Factors Impacting the Adoption of Blockchain Technology in the United States 
-  
-    https://github.com/dcersos1/Blockchain_Adoption_Analysis
     
   Virtual Arcade
   
