@@ -11,6 +11,10 @@ I am a graduate student at Binghamton Unversity with an interest in Machine Lear
 
     https://github.com/dcersos1/Stock_Price_Predictor
 
+  Prospective Restaurant Evaluator
+
+    https://github.com/dcersos1/Prospective_Restaurant_Evaluator
+
   Animal Classifer
 
     https://github.com/dcersos1/Animal_Classifer
